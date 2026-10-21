@@ -1,0 +1,32 @@
+/* Grade de 5 colunas no layout de desktop — o que inclui o iPad deitado.
+   Este bloco começava em 768px, o que pegava o iPad inteiro: o
+   !important vencia o carrossel do stylev2.css, virava grid e ainda
+   escondia as setas. Em pé o iPad segue com o carrossel.
+   Flex com quebra (em vez de grid) para a última linha ficar
+   centralizada; o card acompanha a altura da imagem, sem sobra. */
+@media (min-width: 1440px), (min-width: 1024px) and (orientation: landscape) {
+    .lineup-carousel {
+        overflow: visible !important;
+    }
+    .lineup-grid {
+        display: flex !important;
+        flex-wrap: wrap !important;
+        justify-content: center !important;
+        overflow: visible !important;
+        transform: none !important;
+        transition: none !important;
+        width: 100% !important;
+        column-gap: 14px !important;
+        row-gap: 14px !important;
+    }
+    .lineup-card {
+        flex: 0 0 calc((100% - 4 * 14px) / 5) !important;
+        height: auto !important;
+    }
+    .lineup-card-img {
+        height: auto !important;
+    }
+    .lineup-nav {
+        display: none !important;
+    }
+}

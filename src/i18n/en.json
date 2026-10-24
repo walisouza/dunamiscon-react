@@ -1,0 +1,201 @@
+{
+  "dict": {
+    "nav.tickets": "TICKETS",
+    "nav.about": "ABOUT",
+    "nav.lineup": "LINE-UP",
+    "nav.faq": "FAQ",
+    "menu.language": "LANGUAGE",
+    "cta.ticket": "GET YOUR TICKET",
+    "cta.caravana": "I WANT TO ORGANIZE MY CARAVANA",
+    "aria.lang": "Language",
+    "aria.close": "Close",
+    "aria.watchVideo": "Watch video",
+    "aria.soundOn": "Turn sound on",
+    "aria.soundOff": "Turn sound off",
+    "about.p1": "Dunamis Con 2026 is more than a conference, it is a <span class=\"highlight\">calling</span> for those who are hungry. A place where passionate sons and daughters gather to worship and seek more of God.",
+    "about.p2": "Maybe this is not only about an event, <span class=\"highlight\">but about a season.</span>",
+    "about.p3": "Just like Esther, raised up for such a time as this, and Daniel, who stood firm and saw the supernatural of God — what if you were called for this too?",
+    "about.p4": "<span class=\"highlight\">What if you said yes</span>, to live the supernatural, to leave your comfort zone and to see your city marked by the Kingdom.",
+    "about.p5": "What if it were now? What if it were with you?",
+    "about.p6": "Two intense days, with national and international speakers, a prophetic room, multiple stages and indescribable moments of worship.",
+    "about.p7": "More than a conference, a call<br>to live everything God has <span class=\"highlight\">for this time</span>.",
+    "espera.pre": "What awaits you at",
+    "espera.i1": "National and",
+    "espera.i1b": "international speakers",
+    "espera.i2": "Multiple stages",
+    "espera.i3": "Interactive booths",
+    "espera.i4": "Prophetic room",
+    "espera.e": "and",
+    "espera.muito": "much",
+    "espera.mais": "more..",
+    "cant.pre": "You already know that you",
+    "cant.cant": "can't miss",
+    "cant.title": "<span class=\"nao\">can't</span><br>\n                <span class=\"pode\">miss</span>",
+    "cant.post": "out on this.",
+    "cant.sub": "Choose your <span class=\"highlight-ingresso\">ticket</span> below:",
+    "tickets.batch": "final batch",
+    "tickets.central": "central",
+    "tickets.bleachers": "bleachers",
+    "caravana.heading": "<span class=\"caravana-heading-pre\">Group Ticket</span><span class=\"caravana-heading-main\">Caravana</span>",
+    "caravana.subtitle": "the ideal option to experience Dunamis Con'26 together with your crew!",
+    "caravana.p1": "Gather <span class=\"caravana-underline\">10</span> or more people and get all the tickets at once, with more practicality to organize your group.",
+    "caravana.p2": "<span class=\"highlight\">Call your friends,</span> put your group together and get ready to live days that can <span class=\"caravana-underline\">mark your history</span>.",
+    "caravana.p3": "Need help putting your group together? Click the button below and talk to our team.",
+    "powerup.desc": "The POWER-UP is an upgrade that can be applied to any ticket type, and gives you <span class=\"highlight-powerup\">awesome benefits</span> that can be used on the day of the event, such as:",
+    "powerup.i1": "Fast Pass [Early Access]",
+    "powerup.i2": "Notebook",
+    "powerup.i3": "Pen",
+    "powerup.i4": "Wristband",
+    "powerup.i5": "Dunamis Bible",
+    "powerup.without": "All benefits<br>without the power-up",
+    "powerup.all": "All benefits",
+    "powerup.with": "in the<span class=\"highlight-powerup\">&nbsp;power-up</span>",
+    "faq.more": "Click here and <span class=\"highlight-faq\">Learn More</span>",
+    "faq.less": "Click here and <span class=\"highlight-faq\">See Less</span>",
+    "faq.q1": "When and where will Dunamis Con '26 take place?",
+    "faq.a1": "<p>Dunamis Con '26 will take place on November 20 and 21, 2026, at São Paulo Expo, located at Rodovia dos Imigrantes, 1.5 km – Vila Água Funda, São Paulo – SP, 04329-900.</p>",
+    "faq.q2": "Do tickets grant access to all Dunamis Con '26 sessions?",
+    "faq.a2": "<p>Yes. The ticket grants access to both conference days and to all sessions of the event.</p>",
+    "faq.q3": "Can I buy a ticket for only one day of the event?",
+    "faq.a3": "<p>No. It is not possible to purchase tickets for a single day of Dunamis Con.</p><p>If you can only attend one of the days, your ticket will still be valid.</p>",
+    "faq.q4": "Who is Dunamis Con '26 for?",
+    "faq.a4": "<p>Dunamis Con is for everyone who wants to live a unique revival experience, in atmospheres filled with God's presence and loaded with intense moments of worship, praise and revelation of the Word.</p><p>It is also for people who:</p><ul><li>Are not conformed with the current reality of society;</li><li>Seek to live a naturally supernatural lifestyle;</li><li>Want to make history with God;</li><li>Desire to take the gospel to every nation and sphere of society;</li><li>Seek to invest in eternal things.</li></ul>",
+    "faq.q5": "Do tickets include accommodation and meals?",
+    "faq.a5": "<p>No. Accommodation and meals are not included in the ticket price and are the responsibility of each participant.</p><p>The ticket grants access to the event only. During the conference there will be food areas inside the venue with a variety of options.</p><p>São Paulo Expo itself also has an on-site restaurant, subject to availability.</p>",
+    "faq.q6": "Can I bring food or equipment into the event?",
+    "faq.a6": "<p>Yes. You may bring personal food and equipment, such as a power bank.</p>",
+    "faq.q7": "How do the event sectors work?",
+    "faq.a7": "<p>Dunamis Con '26 will have two available sectors:</p><ul><li>Central Sector</li><li>Bleachers Sector</li></ul><p>Both have seats and are subject to availability at the time of purchase.</p><p>After the purchase: it is not possible to change sectors and moving between sectors is not allowed.</p>",
+    "faq.q8": "Can I leave and return to the event during the day?",
+    "faq.a8": "<p>Yes. You can leave and return to the event as many times as you need, using the same ticket.</p>",
+    "faq.q9": "Which documents should I present at check-in?",
+    "faq.a9": "<p>You must present your printed ticket or the QR Code on your smartphone to access the event.</p>",
+    "faq.q10": "What are the payment methods?",
+    "faq.a10": "<p>Payment can be made through:</p><ul><li>Credit card (with the option of installments, with or without interest, depending on the number of installments)</li><li>PIX</li></ul>",
+    "faq.q11": "Can I change the information on my ticket?",
+    "faq.a11": "<p>Yes. To edit your ticket information, you must access the link received after the purchase, log in with the e-mail used in the purchase and update the participant's data.</p><p>Each ticket is individual and can be changed only once.</p>",
+    "faq.q12": "Is my ticket transferable?",
+    "faq.a12": "<p>Yes. To transfer the ticket, you must access the link received with the ticket, log in with the same e-mail used in the purchase and update the data of the person who will use the ticket.</p><p>This change can be made only once.</p><p>What validates entry into the event is exclusively the ticket's QR Code. This means that even if the name on the ticket is not correct, access to the event will be allowed normally, as long as the QR Code presented is valid.</p>",
+    "faq.q13": "What is the refund policy?",
+    "faq.a13": "<p>Tickets may be cancelled within 7 (seven) days from the purchase date, as provided by the Brazilian Consumer Protection Code.</p><p>After this period, there will be no refund.</p><p>If you cannot attend the event, you may transfer your ticket to another person. Not attending the event does not entitle you to a refund.</p>",
+    "faq.q14": "What is the age rating of the event?",
+    "faq.a14": "<p>We do not recommend the participation of children from 0 to 12 years old, as we do not have a specific structure to accommodate them nor programming aimed at children.</p><p>If they do attend, they must be accompanied by their parents or guardians. Children from 2 years old pay the full ticket price.</p>",
+    "faq.q15": "Is there a half-price ticket?",
+    "faq.a15": "<p>There is no half-price ticket for this event.</p><p>The Dunamis Movement Association clarifies that it does not fall under Federal Law No. 12,933/2013 (Half-Price Ticket Law), since it promotes religious ministry services and conferences of a religious nature.</p>",
+    "faq.q16": "What is the Power Up Combo?",
+    "faq.a16": "<p>Power Up is an optional add-on to the ticket that grants exclusive benefits at the event, such as:</p><ul><li>Fast Pass access</li><li>Special event kit</li></ul><p>Price: R$119.00</p><p>Power Up will be delivered exclusively in person on the day of Dunamis Con. We do not ship it by mail.</p>",
+    "faq.q17": "What time do the gates open?",
+    "faq.a17": "<p>The official gate opening time and the start of the program will be announced close to the event date through Dunamis' official channels.</p><p>We recommend that participants arrive early so they can check in calmly.</p>",
+    "faq.q18": "Are there prohibited items at the event?",
+    "faq.a18": "<p>For safety and organization reasons, some items may be restricted from entering the event.</p><p>The complete list of prohibited items will be announced close to the conference date on Dunamis' official channels.</p>",
+    "faq.q19": "How do I get to the event?",
+    "faq.a19": "<p>Dunamis Con '26 will take place at São Paulo Expo, located at Rodovia dos Imigrantes, in São Paulo.</p><p>The venue can be reached by car, ride-hailing app, taxi and public transport. Detailed access and route information can also be found on the official São Paulo Expo website.</p>",
+    "faq.q20": "Parking",
+    "faq.a20": "<p>São Paulo Expo has its own parking lot with capacity for up to 6,500 cars.</p><p>Price for 12 hours: R$ 90.00 (price subject to change without prior notice).</p>",
+    "faq.q21": "Where can I have lunch or a snack during the breaks?",
+    "faq.a21": "<p>During the event there will be food areas with several gastronomic options inside the venue itself.</p><p>São Paulo Expo also has an internal restaurant, subject to availability.</p>",
+    "faq.q22": "I'm a foreigner. How can I purchase a ticket?",
+    "faq.a22": "<p>International buyers can request information about Dunamis Conference tickets through the following e-mail: <a href=\"mailto:eventos@idunamis.org\">eventos@idunamis.org</a></p>",
+    "faq.q23": "About Dunamis",
+    "faq.a23": "<p>Dunamis Movement is a parachurch Christian movement whose focus is sustainable revival.</p><p>We seek to awaken a generation to establish the Culture of God's Kingdom on Earth, transforming the society around them.</p>",
+    "footer.quote": "Dunamis Con 2026 is more than a<br>conference, it is a <span class=\"highlight\">calling</span> for<br>those who are hungry and understand<br>they were born for a time like this.",
+    "footer.copy": "&copy; 2026 Dunamis Movement. All rights reserved."
+  },
+  "bios": {
+    "teo": {
+      "name": "Teo Hayashi",
+      "p1": "is a voice that has inspired young people in the nations to live the supernatural in a tangible way. Founder of Dunamis Movement, he has travelled across Brazil and the nations preaching the love of Jesus and the power of the Holy Spirit.",
+      "p2": "Wherever he goes he is known for awakening and equipping leaders to transform society!"
+    },
+    "upperoom": {
+      "name": "Upper Room",
+      "p1": "is a worship movement that has awakened a generation to live God's presence in a real and deep way. With songs that carry intensity and intimacy, they have impacted lives around the world, leading people into genuine encounters with Jesus.",
+      "p2": "Based in Dallas, the collective has become a global reference in worship, marking atmospheres with God's presence, leading people to a life surrendered to the Holy Spirit and raising up a generation passionate for Jesus."
+    },
+    "junia": {
+      "name": "Junia Hayashi",
+      "p1": "Senior pastor of Zion Church and leader of Dunamis Movement, married to Teo Hayashi and mother of 4 revivalists.",
+      "p2": "She carries a message about <em>radical obedience</em> that has influenced thousands of young people towards a lifestyle of holiness and purpose."
+    },
+    "fernandinho": {
+      "name": "Fernandinho",
+      "p1": "is a pastor, singer and songwriter, known for songs that have marked generations of worship in Brazil. Leader of the Faz Chover Ministry, he carries an intense message about the presence of God, calling the Church to live a life of surrender, holiness and intimacy with Jesus.",
+      "p2": ""
+    },
+    "raquel": {
+      "name": "Raquel",
+      "p1": "is a writer, preacher and communicator, recognized for her biblical clarity and spiritual sensitivity.",
+      "p2": "Her message calls a generation to live with identity, purpose and intimacy with God, communicating the gospel in a deep, practical and transforming way."
+    },
+    "music": {
+      "name": "",
+      "p1": "Music label of Dunamis Movement, which seeks to generate supernatural encounters with the love of God and to establish a culture of worship in every nation, through an excellent, innovative sound full of the Presence, the Word and the power of the Holy Spirit.",
+      "p2": ""
+    },
+    "john": {
+      "name": "",
+      "p1": "Best-selling author and minister who founded Messenger International to <span class=\"highlight\">revolutionize global Christian discipleship,</span> driven by the passion of developing wholehearted followers of Christ.",
+      "p2": "Through the MessengerX app, his ministry has already distributed free resources in more than <span class=\"highlight\">100 languages</span> to <span class=\"highlight\">228 nations.</span>"
+    },
+    "michel": {
+      "name": "",
+      "p1": "Pr. Michel Piragine is a theologian and senior pastor of the First Baptist Church of Curitiba, where he has served for more than 20 years focused on <span class=\"highlight\">missions and leadership development.</span>",
+      "p2": "Author of the book <span class=\"highlight\">\"Toxic Behaviors\"</span>, he exercises an integral ministry focused on serving people, following the legacy of his father, Pr. Paschoal Piragine Jr."
+    },
+    "adhemar": {
+      "name": "Adhemar de Campos",
+      "p1": "Pastor, singer, songwriter and writer, Adhemar de Campos is one of the great pioneers of contemporary Christian music in Brazil. With nearly 50 years of ministry and more than 500 compositions, including unforgettable classics such as \"Amigo de Deus\" and \"Grande é o Senhor\", his journey is intertwined with the very history of congregational worship in the country.",
+      "p2": "A reference of integrity and passion, he continues to inspire generations to live a genuine and deep worship."
+    },
+    "yun": {
+      "name": "Brother Yun",
+      "p1": "Known worldwide as \"The Heavenly Man\", Brother Yun (Liu Zhenying) is one of the most emblematic leaders of the underground church in China. His journey of faith, marked by extreme persecution, imprisonments and impressive deliverances during the Chinese communist regime, shocked and inspired the world through his bestselling autobiography.",
+      "p2": "Exiled in Germany, he remains a powerful voice challenging Western Christianity to live a courageous, radical faith that is completely dependent on the Holy Spirit."
+    },
+    "gustavo": {
+      "name": "Gustavo Paiva",
+      "p1": "is a pastor and founder of the Nova Geração movement, which began as a worship band and today is a ministry that equips young Christian leaders. Alongside his wife, Mara, he has been leading it for more than 13 years, preaching revival, hope and reformation to impact several spheres of society with Kingdom principles, reaching young people in Brazil and abroad.",
+      "p2": ""
+    },
+    "felipe": {
+      "name": "Felipe Rodrigues",
+      "p1": "is a singer, musician, songwriter and music producer. He began his ministry at the age of 7, accompanying his brother, Pr. Elizeu Rodrigues, in ministrations. He has been leading people into deep experiences with the Holy Spirit through music.",
+      "p2": ""
+    },
+    "eddie": {
+      "name": "",
+      "p1": "Leader of Dunamis Europe and pastor of Zion Church in Lisbon since 2021, Eddie takes the love of Jesus and the power of the Holy Spirit wherever he goes, carrying a powerful message about revival, reformation and love for the nations.",
+      "p2": ""
+    },
+    "adlin": {
+      "name": "",
+      "p1": "Singer and songwriter, a reference in the new generation of Christian urban music. Known for his creativity, he turns biblical stories into impactful songs, believing in the power of the Word of God to transform his generation.",
+      "p2": ""
+    },
+    "gabi": {
+      "name": "",
+      "p1": "One of the voices that have awakened a generation to worship in Brazil. Much more than songs that mark thousands of people, she carries an invitation to a life of surrender, intimacy and passion for the presence of God.",
+      "p2": "Leading the \"Som do Céu\" Movement, she keeps raising up worshippers and inspiring a generation to live revival wherever she goes."
+    },
+    "emaus": {
+      "name": "",
+      "p1": "Emaús Music is the worship expression of Igreja Emaús, in Goiânia (GO). More than music, it is a movement passionate about Jesus that carries a culture of worship through songs that exalt Christ, awaken identity and purpose, and reveal the Kingdom of God.",
+      "p2": ""
+    },
+    "ivan": {
+      "name": "",
+      "p1": "Author and Christian leader, Ivan Roman is known worldwide for teaching about prophetic culture, revival and supernatural life.",
+      "p2": "Senior pastor of Empowered Life Church and founder of the School of Prophets, he dedicates his life to equipping a generation to hear the voice of God and transform nations."
+    },
+    "altomonte": {
+      "name": "",
+      "p1": "It is the praise and worship expression of Zion Church. More than a music label, it represents a family of worshippers committed to revealing Jesus through music.",
+      "p2": "It believes that worship is a powerful expression capable of touching God's heart and communicating to the world the revelation of who Christ is."
+    },
+    "rafael": {
+      "name": "",
+      "p1": "is a pastor of PIB Guarapari, a Christian leader, theologian and leadership developer.",
+      "p2": "With degrees in Law and Theology and an MBA in Leadership and Management, he works in ministerial training and in strengthening the local church, also impacting the community through social projects."
+    }
+  }
+}

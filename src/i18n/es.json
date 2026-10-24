@@ -1,0 +1,201 @@
+{
+  "dict": {
+    "nav.tickets": "ENTRADAS",
+    "nav.about": "SOBRE",
+    "nav.lineup": "LINE-UP",
+    "nav.faq": "FAQ",
+    "menu.language": "IDIOMA",
+    "cta.ticket": "ASEGURA TU ENTRADA",
+    "cta.caravana": "QUIERO ARMAR MI CARAVANA",
+    "aria.lang": "Idioma",
+    "aria.close": "Cerrar",
+    "aria.watchVideo": "Ver video",
+    "aria.soundOn": "Activar sonido",
+    "aria.soundOff": "Desactivar sonido",
+    "about.p1": "La Dunamis Con 2026 es más que una conferencia, es una <span class=\"highlight\">convocación</span> para aquellos que tienen hambre. Un lugar donde hijos apasionados se reúnen para adorar y buscar más de Dios.",
+    "about.p2": "Tal vez esto no sea solo sobre un evento, <span class=\"highlight\">sino sobre un tiempo.</span>",
+    "about.p3": "Así como Ester, levantada para un tiempo como este, y Daniel, que permaneció firme y vio lo sobrenatural de Dios, ¿y si tú también fuiste llamado para esto?",
+    "about.p4": "<span class=\"highlight\">Y si dijeras que sí</span>, para vivir lo sobrenatural, salir de la zona de confort y ver tu ciudad marcada por el Reino.",
+    "about.p5": "¿Y si fuera ahora? ¿Y si fuera contigo?",
+    "about.p6": "Dos días intensos, con predicadores nacionales e internacionales, sala profética, múltiples escenarios y momentos de adoración indescriptibles.",
+    "about.p7": "Más que una conferencia, un llamado<br>para vivir todo lo que Dios tiene <span class=\"highlight\">para este tiempo</span>.",
+    "espera.pre": "Lo que te espera en",
+    "espera.i1": "Predicadores nacionales",
+    "espera.i1b": "e internacionales",
+    "espera.i2": "Múltiples escenarios",
+    "espera.i3": "Stands interactivos",
+    "espera.i4": "Sala profética",
+    "espera.e": "y",
+    "espera.muito": "mucho",
+    "espera.mais": "más..",
+    "cant.pre": "Ya entendiste que",
+    "cant.cant": "no puedes",
+    "cant.title": "<span class=\"nao\">no</span><br>\n                <span class=\"pode\">puedes</span>",
+    "cant.post": "quedarte fuera.",
+    "cant.sub": "Elige tu <span class=\"highlight-ingresso\">entrada</span> abajo:",
+    "tickets.batch": "último lote",
+    "tickets.central": "central",
+    "tickets.bleachers": "gradería",
+    "caravana.heading": "<span class=\"caravana-heading-pre\">Entrada</span><span class=\"caravana-heading-main\">Caravana</span>",
+    "caravana.subtitle": "¡la opción ideal para vivir la Dunamis Con'26 junto a tu gente!",
+    "caravana.p1": "Reúne a <span class=\"caravana-underline\">10</span> o más personas y asegura las entradas de una sola vez, con más practicidad para organizar tu caravana.",
+    "caravana.p2": "<span class=\"highlight\">Llama a tus amigos,</span> arma tu grupo y prepárate para vivir días que pueden <span class=\"caravana-underline\">marcar tu historia</span>.",
+    "caravana.p3": "¿Necesitas ayuda para armar tu caravana? Haz clic en el botón de abajo y habla con nuestro equipo.",
+    "powerup.desc": "El POWER-UP es un upgrade que puede aplicarse a cualquier tipo de entrada, y que te garantiza <span class=\"highlight-powerup\">beneficios geniales</span> que podrás utilizar el día del evento, como:",
+    "powerup.i1": "Fast Pass [Acceso Anticipado]",
+    "powerup.i2": "Libreta",
+    "powerup.i3": "Bolígrafo",
+    "powerup.i4": "Pulsera",
+    "powerup.i5": "Biblia Dunamis",
+    "powerup.without": "Todos los beneficios<br>sin el power-up",
+    "powerup.all": "Todos los beneficios",
+    "powerup.with": "en el<span class=\"highlight-powerup\">&nbsp;power-up</span>",
+    "faq.more": "Haz clic aquí y <span class=\"highlight-faq\">Conoce Más</span>",
+    "faq.less": "Haz clic aquí y <span class=\"highlight-faq\">Ver Menos</span>",
+    "faq.q1": "¿Cuándo y dónde será la Dunamis Con '26?",
+    "faq.a1": "<p>La Dunamis Con '26 se realizará los días 20 y 21 de noviembre de 2026, en el São Paulo Expo, ubicado en la Rodovia dos Imigrantes, 1,5 km – Vila Água Funda, São Paulo – SP, 04329-900.</p>",
+    "faq.q2": "¿Las entradas dan derecho a todas las sesiones de la Dunamis Con '26?",
+    "faq.a2": "<p>Sí. La entrada da derecho a los dos días de conferencia y al acceso a todas las sesiones del evento.</p>",
+    "faq.q3": "¿Puedo comprar una entrada para solo un día del evento?",
+    "faq.a3": "<p>No. No es posible adquirir entradas para un solo día de la Dunamis Con.</p><p>Si solo puedes participar en uno de los días, tu entrada seguirá siendo válida normalmente.</p>",
+    "faq.q4": "¿Para quién es la Dunamis Con '26?",
+    "faq.a4": "<p>La Dunamis Con es para todos aquellos que desean vivir una experiencia única de avivamiento, en atmósferas llenas de la presencia de Dios y cargadas de intensos momentos de adoración, alabanza y revelación de la Palabra.</p><p>También es para personas que:</p><ul><li>Están inconformes con la realidad actual de la sociedad;</li><li>Buscan vivir un estilo de vida naturalmente sobrenatural;</li><li>Quieren hacer historia con Dios;</li><li>Desean llevar el evangelio a todas las naciones y esferas de la sociedad;</li><li>Buscan invertir en cosas eternas.</li></ul>",
+    "faq.q5": "¿Las entradas dan derecho a hospedaje y alimentación?",
+    "faq.a5": "<p>No. El hospedaje y la alimentación no están incluidos en el valor de la entrada y son responsabilidad de cada participante.</p><p>La entrada da acceso únicamente al evento. Durante la conferencia habrá espacios de alimentación dentro del evento con opciones variadas.</p><p>El propio São Paulo Expo también cuenta con un restaurante en el lugar, sujeto a disponibilidad.</p>",
+    "faq.q6": "¿Puedo entrar con alimentos o equipos al evento?",
+    "faq.a6": "<p>Sí. Está permitido entrar con alimentos y equipos personales, como power bank.</p>",
+    "faq.q7": "¿Cómo funcionan los sectores del evento?",
+    "faq.a7": "<p>La Dunamis Con '26 contará con dos sectores disponibles:</p><ul><li>Sector Central</li><li>Sector Gradería</li></ul><p>Ambos cuentan con asientos y están sujetos a disponibilidad al momento de la compra.</p><p>Después de la compra: no es posible cambiar de sector ni se permite transitar entre los sectores.</p>",
+    "faq.q8": "¿Puedo salir y volver al evento durante el día?",
+    "faq.a8": "<p>Sí. Puedes salir y volver al evento cuantas veces necesites, utilizando la misma entrada.</p>",
+    "faq.q9": "¿Qué documentos debo presentar en el check-in?",
+    "faq.a9": "<p>Deberás presentar tu entrada impresa o el código QR en tu smartphone para acceder al evento.</p>",
+    "faq.q10": "¿Cuáles son las formas de pago?",
+    "faq.a10": "<p>El pago puede realizarse a través de:</p><ul><li>Tarjeta de crédito (con opción de pago en cuotas con o sin intereses, según la cantidad de cuotas)</li><li>PIX</li></ul>",
+    "faq.q11": "¿Puedo cambiar la información de mi entrada?",
+    "faq.a11": "<p>Sí. Para editar la información de tu entrada, deberás acceder al enlace recibido después de la compra, iniciar sesión con el correo utilizado en la compra y actualizar los datos del participante.</p><p>Cada entrada es individual y puede modificarse solo una vez.</p>",
+    "faq.q12": "¿Mi entrada es transferible?",
+    "faq.a12": "<p>Sí. Para transferir la entrada, deberás acceder al enlace recibido junto con la entrada, iniciar sesión con el mismo correo utilizado en la compra y actualizar los datos de la persona que usará la entrada.</p><p>Este cambio puede hacerse solo una vez.</p><p>Lo que valida la entrada al evento es exclusivamente el código QR. Esto significa que, aunque el nombre en la entrada no sea correcto, el acceso al evento será permitido normalmente, siempre que el código QR presentado sea válido.</p>",
+    "faq.q13": "¿Cuál es la política de reembolso?",
+    "faq.a13": "<p>Las entradas podrán cancelarse en un plazo de 7 (siete) días a partir de la fecha de compra, conforme a lo previsto en el Código de Defensa del Consumidor de Brasil.</p><p>Después de ese período, no habrá reembolso.</p><p>Si no puedes asistir al evento, podrás transferir tu entrada a otra persona. La no asistencia al evento no da derecho a reembolso.</p>",
+    "faq.q14": "¿Cuál es la clasificación de edad del evento?",
+    "faq.a14": "<p>No recomendamos la participación de niños de 0 a 12 años, ya que no contamos con una estructura específica para acomodarlos ni con programación dirigida al público infantil.</p><p>En caso de que participen, deberán estar acompañados por sus padres o responsables. Los niños a partir de 2 años pagan entrada completa.</p>",
+    "faq.q15": "¿Existe media entrada?",
+    "faq.a15": "<p>No existe media entrada para este evento.</p><p>La Asociación Movimiento Dunamis aclara que no se enmarca en la Ley Federal n.º 12.933/2013 (Ley de Media Entrada), pues promueve cultos de ministración religiosa y conferencias de carácter religioso.</p>",
+    "faq.q16": "¿Qué es el Combo Power Up?",
+    "faq.a16": "<p>El Power Up es un adicional opcional a la entrada que garantiza beneficios exclusivos en el evento, como:</p><ul><li>Acceso al Fast Pass</li><li>Kit especial del evento</li></ul><p>Valor: R$119,00</p><p>El Power Up será entregado exclusivamente de forma presencial el día de la Dunamis Con. No realizamos envíos por correo.</p>",
+    "faq.q17": "¿Cuál es el horario de apertura de las puertas?",
+    "faq.a17": "<p>El horario oficial de apertura de las puertas y el inicio de la programación se divulgará cerca de la fecha del evento a través de los canales oficiales de Dunamis.</p><p>Recomendamos que los participantes lleguen con anticipación para realizar el check-in con tranquilidad.</p>",
+    "faq.q18": "¿Hay objetos prohibidos en el evento?",
+    "faq.a18": "<p>Por motivos de seguridad y organización, algunos artículos pueden tener restricción de entrada al evento.</p><p>La lista completa de artículos prohibidos se divulgará cerca de la fecha de la conferencia en los canales oficiales de Dunamis.</p>",
+    "faq.q19": "¿Cómo llegar al evento?",
+    "faq.a19": "<p>La Dunamis Con '26 se realizará en el São Paulo Expo, ubicado en la Rodovia dos Imigrantes, en São Paulo.</p><p>El lugar cuenta con acceso en auto, transporte por aplicación, taxi y transporte público. La información detallada de acceso y rutas también puede consultarse en el sitio oficial del São Paulo Expo.</p>",
+    "faq.q20": "Estacionamiento",
+    "faq.a20": "<p>El São Paulo Expo cuenta con estacionamiento propio con capacidad para hasta 6.500 autos.</p><p>Valor por 12 horas: R$ 90,00 (valor sujeto a cambios sin aviso previo).</p>",
+    "faq.q21": "¿Dónde puedo almorzar o merendar durante los intervalos?",
+    "faq.a21": "<p>Durante el evento habrá espacios de alimentación con diversas opciones gastronómicas dentro del propio lugar.</p><p>El São Paulo Expo también cuenta con un restaurante interno, sujeto a disponibilidad.</p>",
+    "faq.q22": "Soy extranjero. ¿Cómo puedo comprar una entrada?",
+    "faq.a22": "<p>Los compradores internacionales pueden solicitar información sobre las entradas de la Dunamis Con a través del siguiente correo: <a href=\"mailto:eventos@idunamis.org\">eventos@idunamis.org</a></p>",
+    "faq.q23": "Sobre Dunamis",
+    "faq.a23": "<p>El Dunamis Movement es un movimiento cristiano paraeclesiástico cuyo enfoque es un avivamiento sostenible.</p><p>Buscamos despertar a una generación para establecer la Cultura del Reino de Dios en la Tierra, transformando la sociedad a su alrededor.</p>",
+    "footer.quote": "La Dunamis Con 2026 es más que una<br>conferencia, es una <span class=\"highlight\">convocación</span> para<br>aquellos que tienen hambre y entienden que<br>nacieron para un tiempo como este.",
+    "footer.copy": "&copy; 2026 Movimiento Dunamis. Todos los derechos reservados."
+  },
+  "bios": {
+    "teo": {
+      "name": "Teo Hayashi",
+      "p1": "es una voz que ha inspirado a jóvenes en las naciones a vivir lo sobrenatural de forma palpable. Fundador del Dunamis Movement, ha viajado por Brasil y por las naciones predicando el amor de Jesús y el poder del Espíritu Santo.",
+      "p2": "¡Es conocido por donde pasa por despertar y capacitar líderes para transformar la sociedad!"
+    },
+    "upperoom": {
+      "name": "Upper Room",
+      "p1": "es un movimiento de adoración que ha despertado a una generación a vivir la presencia de Dios de forma real y profunda. Con canciones que llevan intensidad e intimidad, han impactado vidas alrededor del mundo, conduciendo a las personas a encuentros genuinos con Jesús.",
+      "p2": "Con base en Dallas, el colectivo se ha convertido en una referencia global en adoración, marcando ambientes con la presencia de Dios, llevando a las personas a una vida rendida al Espíritu Santo y levantando una generación apasionada por Jesús."
+    },
+    "junia": {
+      "name": "Junia Hayashi",
+      "p1": "Pastora sénior de la Zion Church y líder del Dunamis Movement, casada con Teo Hayashi y madre de 4 avivalistas.",
+      "p2": "Lleva un mensaje sobre <em>obediencia radical</em> que ha influenciado a miles de jóvenes hacia un estilo de vida de santidad y propósito."
+    },
+    "fernandinho": {
+      "name": "Fernandinho",
+      "p1": "es pastor, cantante y compositor, conocido por canciones que marcaron generaciones en la adoración en Brasil. Líder del ministerio Faz Chover Ministry, lleva un mensaje intenso sobre la presencia de Dios, llamando a la Iglesia a vivir una vida de entrega, santidad e intimidad con Jesús.",
+      "p2": ""
+    },
+    "raquel": {
+      "name": "Raquel",
+      "p1": "es escritora, predicadora y comunicadora, reconocida por su claridad bíblica y sensibilidad espiritual.",
+      "p2": "Su mensaje llama a una generación a vivir con identidad, propósito e intimidad con Dios, comunicando el evangelio de forma profunda, práctica y transformadora."
+    },
+    "music": {
+      "name": "",
+      "p1": "Sello musical del Dunamis Movement, que busca generar encuentros sobrenaturales con el amor de Dios y establecer una cultura de adoración en todas las naciones, a través de un sonido excelente, innovador y lleno de la Presencia, la Palabra y el poder del Espíritu Santo.",
+      "p2": ""
+    },
+    "john": {
+      "name": "",
+      "p1": "Autor de best-sellers y ministro que fundó Messenger International para <span class=\"highlight\">revolucionar el discipulado cristiano global,</span> a través de la pasión de desarrollar seguidores de Cristo íntegros.",
+      "p2": "Por medio de la aplicación MessengerX, su ministerio ya ha distribuido recursos gratuitos en más de <span class=\"highlight\">100 idiomas</span> para <span class=\"highlight\">228 naciones.</span>"
+    },
+    "michel": {
+      "name": "",
+      "p1": "El Pr. Michel Piragine es teólogo y pastor sénior de la Primera Iglesia Bautista de Curitiba, donde actúa hace más de 20 años enfocado en <span class=\"highlight\">misiones y formación de líderes.</span>",
+      "p2": "Autor del libro <span class=\"highlight\">\"Comportamientos Tóxicos\"</span>, ejerce el ministerio integral con foco en servir a las personas, siguiendo el legado de su padre, el Pr. Paschoal Piragine Jr."
+    },
+    "adhemar": {
+      "name": "Adhemar de Campos",
+      "p1": "Pastor, cantante, compositor y escritor, Adhemar de Campos es uno de los grandes pioneros de la música cristiana contemporánea en Brasil. Con cerca de 50 años de ministerio y más de 500 composiciones, incluyendo clásicos inolvidables como \"Amigo de Deus\" y \"Grande é o Senhor\", su trayectoria se confunde con la propia historia de la alabanza congregacional en el país.",
+      "p2": "Referencia de integridad y pasión, continúa inspirando generaciones a vivir una adoración genuina y profunda."
+    },
+    "yun": {
+      "name": "Hermano Yun",
+      "p1": "Conocido mundialmente como \"El Hombre del Cielo\", el Hermano Yun (Liu Zhenying) es uno de los líderes más emblemáticos de la iglesia clandestina en China. Su jornada de fe, marcada por persecuciones extremas, prisiones y liberaciones impresionantes durante el régimen comunista chino, impactó e inspiró al mundo a través de su autobiografía bestseller.",
+      "p2": "Exiliado en Alemania, continúa siendo una voz poderosa que desafía al cristianismo occidental a vivir una fe valiente, radical y totalmente dependiente del Espíritu Santo."
+    },
+    "gustavo": {
+      "name": "Gustavo Paiva",
+      "p1": "es pastor y fundador del movimiento Nova Geração, iniciado como banda de adoración y hoy un ministerio de capacitación de jóvenes líderes cristianos. Junto a su esposa, Mara, lidera hace más de 13 años, predicando avivamiento, esperanza y reforma para impactar diversas esferas de la sociedad con los principios del Reino, alcanzando jóvenes en Brasil y en el exterior.",
+      "p2": ""
+    },
+    "felipe": {
+      "name": "Felipe Rodrigues",
+      "p1": "es cantante, músico, compositor y productor musical. Inició su ministerio a los 7 años acompañando a su hermano, el Pr. Elizeu Rodrigues, en ministraciones. Ha conducido a las personas a experiencias profundas con el Espíritu Santo a través de la música.",
+      "p2": ""
+    },
+    "eddie": {
+      "name": "",
+      "p1": "Líder de Dunamis Europa y pastor de la Zion Church en Lisboa desde 2021, Eddie lleva el amor de Jesús y el poder del Espíritu Santo por donde pasa, cargando un mensaje poderoso sobre avivamiento, reforma y amor por las naciones.",
+      "p2": ""
+    },
+    "adlin": {
+      "name": "",
+      "p1": "Cantante y compositor, referencia en la nueva generación de la música urbana cristiana. Conocido por su creatividad, transforma historias bíblicas en canciones impactantes, creyendo en el poder de la Palabra de Dios para transformar su generación.",
+      "p2": ""
+    },
+    "gabi": {
+      "name": "",
+      "p1": "Una de las voces que han despertado a una generación para la adoración en Brasil. Mucho más que canciones que marcan a miles de personas, ella lleva una invitación a una vida de rendición, intimidad y pasión por la presencia de Dios.",
+      "p2": "Liderando el Movimiento \"Som do Céu\", sigue levantando adoradores e inspirando a una generación a vivir el avivamiento por donde pasa."
+    },
+    "emaus": {
+      "name": "",
+      "p1": "Emaús Music es la expresión de adoración de la Iglesia Emaús, en Goiânia (GO). Más que música, es un movimiento apasionado por Jesús, que lleva una cultura de adoración a través de canciones que exaltan a Cristo, despiertan identidad y propósito y revelan el Reino de Dios.",
+      "p2": ""
+    },
+    "ivan": {
+      "name": "",
+      "p1": "Autor y líder cristiano, Ivan Roman es conocido mundialmente por enseñar sobre cultura profética, avivamiento y vida en lo sobrenatural.",
+      "p2": "Pastor sénior de la Empowered Life Church y fundador de la School of Prophets, dedica su vida a equipar a una generación para escuchar la voz de Dios y transformar naciones."
+    },
+    "altomonte": {
+      "name": "",
+      "p1": "Es la expresión de alabanza y adoración de la Zion Church. Más que un sello musical, representa una familia de adoradores comprometida en revelar a Jesús por medio de la música.",
+      "p2": "Cree que la adoración es una expresión poderosa capaz de tocar el corazón de Dios y comunicar al mundo la revelación de quién es Cristo."
+    },
+    "rafael": {
+      "name": "",
+      "p1": "Es pastor de la PIB Guarapari, líder cristiano, teólogo y formador de líderes.",
+      "p2": "Graduado en Derecho y Teología, con MBA en Liderazgo y Gestión, actúa en la formación ministerial y en el fortalecimiento de la iglesia local, impactando también a la comunidad por medio de proyectos sociales."
+    }
+  }
+}

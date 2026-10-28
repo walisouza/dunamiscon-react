@@ -37,3 +37,11 @@ As bios do line-up em EN/ES ficam em `bios` dentro de `en.json`/`es.json`.
 
 - Lenis e Three.js só são baixados em telas com mouse, como no original.
 - Os parâmetros da URL (`utm_*` etc.) são repassados para os links externos de compra.
+
+## Rodando localmente
+
+```bash
+npm install
+npm run dev     # servidor de desenvolvimento (Vite)
+npm run build   # build de produção em dist/
+```
